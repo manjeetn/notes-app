@@ -2,6 +2,7 @@ A  notes-keeping app built using the MERN stack – MongoDB, Express.js, React.j
 Users can create, view, and delete notes.
 
  Features
+ 
 1.Create and save notes
 
 2. View all notes in a clean layout
